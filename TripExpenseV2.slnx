@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TripExpenseV2/TripExpenseV2.vcxproj" Id="9f0d7c8f-1996-4b09-90d5-7d539081be8c" />
+</Solution>
